@@ -8,4 +8,6 @@ const movies = [
   "The Hateful 8",
 ];
 
-// Your code below
+movies.forEach((element) => {
+  console.log(element);
+});
